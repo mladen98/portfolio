@@ -60,7 +60,7 @@ REST-basierter Chat-Server mit User-Accounts und Chatrooms. Nachrichtenempfang Ã
 
 \- \*\*Highlights:\*\* Register/Login, Chatrooms, Token/Session-Handling, Cleanup-Mechanismen
 
-\- Repo: https://github.com/mladen98/chatroom-server_project.git
+\- Repo: https://github.com/mladen98/chatroom-server_project
 
 
 
